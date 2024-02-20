@@ -2,5 +2,5 @@
 
 # Friends:
 
-- [NyanHelsing](nyanhelsing.github.io)
+- [NyanHelsing](https://nyanhelsing.github.io)
 - 
